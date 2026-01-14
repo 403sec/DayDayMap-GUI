@@ -16,7 +16,11 @@
 
 ## 🖼️ 工具演示 (Screenshot)
 
-截图
+### 支持语法提示
+输入语法，web.  会提示以web.开头的所有语法
+<img width="2001" height="1480" alt="PixPin_2026-01-14_16-29-43" src="https://github.com/user-attachments/assets/bc93bf32-760c-4f9c-84f9-20a6853161f1" />
+
+
 
 ---
 
