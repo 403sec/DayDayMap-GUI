@@ -44,13 +44,11 @@
 
 <img width="2000" height="1304" alt="PixPin_2026-01-14_16-41-01" src="https://github.com/user-attachments/assets/3680b4b6-4935-4efc-bf42-6351b4ffe5b8" />
 
-
-
 ---
 
 ## ✨ 核心功能 (Features)
 
-本工具 (V84) 经过深度优化，专注于提升查询效率与数据处理体验：
+本工具正式版本 (V2.0) 经过作者本地多个版本的深度优化，提升查询效率与数据处理：
 
 ### 🔍 深度查询与交互
 
