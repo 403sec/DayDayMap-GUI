@@ -16,9 +16,16 @@
 
 ## 🖼️ 工具演示 (Screenshot)
 
-### 支持语法提示
-输入语法，web.  会提示以web.开头的所有语法
+### 1、支持语法提示
+输入语法，web.  会提示以web.开头的所有语法。
+点击提示的语法，直接输入到查询框。
 <img width="2001" height="1480" alt="PixPin_2026-01-14_16-29-43" src="https://github.com/user-attachments/assets/bc93bf32-760c-4f9c-84f9-20a6853161f1" />
+
+### 2、支持语法提示
+为了不浪费API资源
+导出页面分为：当前页、已经查看的页、所有页
+
+<img width="2002" height="1483" alt="PixPin_2026-01-14_16-32-06" src="https://github.com/user-attachments/assets/865b5c90-7339-4f71-9b3c-cea8b6da835a" />
 
 
 
